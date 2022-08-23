@@ -25,7 +25,7 @@ function TaskForm(props) {
 
   return (
     <form 
-    onSubmit={handleSend}
+    onSubmit={ handleSend } 
     className="task-form">
       <input
         className="input-task"

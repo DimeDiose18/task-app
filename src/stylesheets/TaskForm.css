@@ -15,7 +15,7 @@
   background-color: white;
   padding: 14px 32px 14px 16px;
   border-radius: 4px 0 0 4px;
-  border: 2px solid #c23cb7;
+  border: 2px solid #801276;
   outline: none;
 }
 
@@ -29,7 +29,7 @@
   border-radius: 0 4px 4px 0;
   outline: none;
   cursor: pointer;
-  background-color: #c23cb7;
+  background-color: #801276;
   color: white;
   text-transform: capitalize;
 }
